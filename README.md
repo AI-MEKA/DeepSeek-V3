@@ -3,6 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
+<img src="https://pictr.com/images/2025/01/08/x1dCZ1.jpg" alt="x1dCZ1.jpg" border="0" />
   <img src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true" width="60%" alt="DeepSeek-V3" />
 </div>
 <hr>
@@ -43,6 +44,28 @@
 <p align="center">
   <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
 </p>
+
+## Meka AI is a DeepSeek-powered agent designed to optimize your DeFi experience. It leverages advanced machine learning algorithms to:
+
+- Maximize Earnings:
+    - Automated Yield Farming: Meka ai seamlessly identifies and executes the most profitable yield farming strategies across various DeFi protocols (e.g., lending, staking, liquidity pools).
+    - Dynamic Portfolio Rebalancing: Continuously adjusts your asset allocation based on market trends, risk tolerance, and profit potential.
+    - Flash Loan Arbitrage: Captures fleeting market inefficiencies through intelligent flash loan utilization, maximizing returns while minimizing risk.
+- MEV Protection:
+    - Transaction Prefunding: Meka ai proactively funds transactions to miners, ensuring priority placement and minimizing the impact of front-running or back-running attacks.
+    - Private Transactions: Leverages privacy-preserving technologies to obscure transaction details from miners, reducing the window for MEV exploitation.
+    - Decentralized Sequencing: Participates in decentralized transaction ordering systems to promote fair and equitable transaction execution.
+- Portfolio Management:
+    - Risk Assessment: Meka ai continuously monitors market volatility and assesses potential risks associated with your portfolio.
+    - Stop-Loss Mekanisms: Implements automated stop-loss orders to protect your capital from significant price declines.
+    - Tax Optimization: Meka ai provides insights and recommendations for tax-efficient portfolio management strategies.
+
+Key Features:
+
+- User-Friendly Interface: Intuitive dashboard for easy monitoring and control of your DeFi portfolio.
+- Customizable Risk Profiles: Tailor your investment strategy to your unique risk tolerance and financial goals.
+- Transparency and Auditability: Provides clear and concise reports on all trading activities and portfolio performance.
+- Security: Employs robust security measures to protect your assets from hacks and exploits.
 
 
 ## 1. Introduction
